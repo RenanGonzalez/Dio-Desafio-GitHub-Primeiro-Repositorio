@@ -1,0 +1,4 @@
+git status
+git add . ou git add -A
+git commit -m "informe a alteração"
+git push origin main
